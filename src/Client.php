@@ -1,5 +1,7 @@
 <?php
 
+namespace GraphQLClient;
+
 /**
  * Class Client
  */
