@@ -1,12 +1,12 @@
 <?php
 
 /**
- * Class GraphQLClient
+ * Class Client
  */
-class GraphQLClient
+class Client
 {
     /**
-     * GraphQLClient constructor.
+     * Client constructor.
      */
     public function __construct()
     {
